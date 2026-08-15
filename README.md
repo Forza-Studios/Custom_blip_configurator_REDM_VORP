@@ -1,1 +1,2 @@
-# Custom_blip_configurator_REDM_VORP
+# alentexas_blips
+Easy way to add blips to your map in redm
