@@ -1,3 +1,5 @@
+-- refer -- https://redlookup.com/blips
+
 BlipData = {}
 
 BlipData.blips = {
